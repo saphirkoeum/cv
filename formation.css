@@ -1,0 +1,13 @@
+/*PARTIE FORMATION*/
+#formation{
+  background-color: lightgrey;
+  padding: 10px;
+}
+#formation img{
+  width: 150px;
+  height: 90px;
+}
+#formation li{
+  margin: 20px;
+  font-weight: bolder;
+  }

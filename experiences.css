@@ -1,0 +1,31 @@
+/*PARTIE EXPERIENCES*/
+#banque p{
+  font-style: italic;
+  margin: 0;
+}
+#banque img{
+  width: 100px;
+  height: 90px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+#banque li{
+  font-weight: bolder;
+  margin: 20px;
+  list-style-type: none; /* supprime les puces */
+}
+#patisserie p{
+  font-style: italic;
+  margin: 0;
+}
+#patisserie img{
+  width: 120px;
+  height: 120px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+#patisserie li{
+  font-weight: bolder;
+  margin: 20px;
+  list-style-type: none; /* supprime les puces */
+}

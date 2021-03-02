@@ -1,0 +1,28 @@
+main{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  }
+.infos{
+  font-weight: bolder;
+  color: #e16173;/*rose*/
+}
+.infos ul{
+  list-style-type: none; /*supprime les puces*/
+}
+main img{
+  width: 250px;
+  height: 300px;
+  border-radius: 55%;
+}
+article{
+  display: block;
+  justify-content: center;
+  text-align: justify;
+  padding: 10px;
+}
+article a{
+  font-weight: bold;
+  color:#e16173; /*rose*/
+  text-decoration: none; /*supprime surlignage*/
+}
